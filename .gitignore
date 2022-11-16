@@ -1,0 +1,4 @@
+/templates
+/static/firebase-messaging-sw.js
+/__pycache__
+/venv

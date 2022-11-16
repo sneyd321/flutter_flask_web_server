@@ -1,0 +1,9 @@
+version: '3.5'
+
+services: 
+  roomr-tenant:
+      image: sneyd321/roomr-tenant
+      restart: on-failure
+      ports:
+        - 5000:5000
+
